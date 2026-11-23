@@ -1,0 +1,10 @@
+{
+  "name": "social-account-audit",
+  "description": "Use when asked to review Instagram, Facebook, TikTok or similar account insights and turn them into a posting plan \u2014 audiences, active times, reach sources, follower trends and what content performs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "The Ask Why Company",
+    "url": "https://github.com/theaskwhy"
+  },
+  "license": "MIT"
+}
